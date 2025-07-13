@@ -1,4 +1,4 @@
-# eSocialAutomator
+# eSocialAutomat
 
 Intelligent system for batch automation of eSocial queries (Brazilian tax and labor XML standard), with consolidated return processing from events S-5011 and S-5012 into Excel spreadsheets.
 
