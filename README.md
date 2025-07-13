@@ -1,4 +1,4 @@
-# eSocialAutomator
+# eSocialAutomat
 
 Sistema inteligente para automação de consultas ao eSocial em lote, com retorno consolidado de valores S-5011 e S-5012 em Excel.
 
