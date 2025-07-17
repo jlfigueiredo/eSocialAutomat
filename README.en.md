@@ -27,7 +27,9 @@ Built for HR and Payroll professionals handling large volumes of XMLs, this tool
 ![App Interface](screenshots/interface_gui.png)  
 ![Excel Output](screenshots/excel_saida.png)
 
-📽️ **Video demo coming soon**
+📽️ **Video demo**
+
+![Video Demo](screenshots/video_demo.gif)
 
 ## 🔒 Intellectual Property Notice
 
