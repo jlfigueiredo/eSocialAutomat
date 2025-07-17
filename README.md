@@ -27,8 +27,8 @@ Desenvolvido para analistas de Departamento Pessoal que lidam com alto volume de
 ![Exemplo GUI](screenshots/interface_gui.png)  
 ![Excel Gerado](screenshots/excel_saida.png)
 
-> ## Demonstração em vídeo
-> ![Video Demonstracao](screenshots/video_demo.mp4)
+## 🎥 Demonstração em vídeo
+![Video Demonstracao](screenshots/video_demo.gif)
 
 ## ⚠️ Direitos reservados
 
